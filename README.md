@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Mohammad Asad! 👋  
 
-<!--
-**MohammadAsad-Weber/MohammadAsad-Weber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate **Frontend Developer** with expertise in **React.js, Redux Toolkit, and TypeScript**.  
+🎯 Focused on building **high-performance, scalable web applications**.  
+🌱 Currently improving my **Problem solving skills & contributing to open-source projects**.  
 
-Here are some ideas to get you started:
+📌 **Tech Stack:**  
+- 🔹 HTML | CSS | JavaScript | TypeScript  
+- ⚛️ React.js | Redux Toolkit  
+- 🎨 Tailwind CSS | Bootstrap  
+- 🔗 API Integration | Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 **Connect with me:**  
+[LinkedIn](https://www.linkedin.com/in/mohammad-asad-091b6a217/) | [Portfolio](https://mohammad-asad-portfolio.vercel.app/)  
