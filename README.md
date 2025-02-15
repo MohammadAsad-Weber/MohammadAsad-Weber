@@ -6,7 +6,7 @@
 
 📌 **Tech Stack:**  
 - 🔹 HTML | CSS | JavaScript | TypeScript  
-- ⚛️ React.js | Redux Toolkit  
+- ⚛️ React.js | Redux Toolkit | Next.js
 - 🎨 Tailwind CSS | Bootstrap  
 - 🔗 API Integration | Git & GitHub  
 
