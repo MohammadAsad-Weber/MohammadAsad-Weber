@@ -1,6 +1,6 @@
 ## Hi there, I'm Mohammad Asad! 👋  
 
-🚀 Passionate **Frontend Developer** with expertise in **React.js, Redux Toolkit, and TypeScript**.  
+🚀 Passionate **Frontend Developer** with expertise in **React.js, Redux Toolkit, Next.js and TypeScript**.  
 🎯 Focused on building **high-performance, scalable web applications**.  
 🌱 Currently improving my **Problem solving skills & contributing to open-source projects**.  
 
