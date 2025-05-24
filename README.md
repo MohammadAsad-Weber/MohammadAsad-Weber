@@ -1,5 +1,6 @@
 <h1 align="center">Hey, I'm Mohammad Asad 💫</h1>
-<h3 align="center">💻 MERN Stack Developer | Passionate about Crafting Scalable Web Apps</h3>
+<h2 align="center">💻 MERN Stack Developer</h2>
+<h4 align="center">Currently a React.js Intern @ The Virtual CTO | Building responsive, scalable and SEO-optimized web apps</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MohammadAsad-Weber&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -13,7 +14,7 @@
 - 🏗️ Strong experience in designing and developing **REST APIs**, **authentication systems**, and **backend architecture**
 - 🎨 Focused on **UI/UX design**, ensuring responsive, accessible, and performant interfaces
 - 🌱 Always learning about **advanced backend patterns**, **performance optimization**, and **system design**
-- 🤝 Open to **remote internships**, **freelance projects**, and **collaboration opportunities**
+- 🤝 Open to **remote internships**, **freelance projects**, and **collaboration opportunities** after July 2025
 
 ## 🧰 Tech Stack
 
@@ -24,13 +25,13 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-F8D400?style=for-the-badge&logo=ejs&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Router](https://img.shields.io/badge/React%20Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-F8D400?style=for-the-badge&logo=ejs&logoColor=black)
 
 ### **Backend**
 
@@ -48,6 +49,7 @@
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Tanstack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render&logoColor=white)
