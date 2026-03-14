@@ -1,65 +1,91 @@
-<h1 align="center">Hey, I'm Mohammad Asad 💫</h1>
-<h3 align="center">💻 MERN Stack Developer | Passionate about Crafting Scalable Web Apps</h3>
+![Profile Banner Image](/assets/banner.png)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohammadAsad-Weber&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/MohammadAsad-Weber?label=Followers&style=social" alt="GitHub Followers" />
-</p>
+# Full Stack Engineer building modern web systems with TypeScript
+
+I focus on designing and developing scalable, production-ready web applications using modern technologies. My goal is to build clean, maintainable systems that solve real problems and perform reliably in real-world environments.
 
 ## 👨‍💻 About Me
 
-- 🔥 **MERN Stack Developer** with expertise in **MongoDB**, **Express.js**, **React.js**, and **Next.js**
-- 💡 Passionate about **building high-performance full-stack applications** with a focus on scalability and maintainability
-- 🏗️ Strong experience in designing and developing **REST APIs**, **authentication systems**, and **backend architecture**
-- 🎨 Focused on **UI/UX design**, ensuring responsive, accessible, and performant interfaces
-- 🌱 Always learning about **advanced backend patterns**, **performance optimization**, and **system design**
-- 🤝 Open to **remote internships**, **freelance projects**, and **collaboration opportunities**
+<img
+  width="37%"
+  align="left"
+  src="./assets/coding-mario.gif"
+  alt="Coding Mario"
+/>
+
+I’ve been deeply interested in software engineering since the age of 14, when I first decided to pursue the path of becoming a Software Development Engineer. Despite starting with only an Intermediate education, I worked my way into the IT field through self-learning, consistent practice, and building real projects, gradually developing skills across the full stack — from modern frontend interfaces to backend systems and databases.
+
+Today, my focus has shifted toward the deeper layers of engineering: system architecture, database design, and debugging complex production issues. My long-term goal is to become the kind of developer who doesn’t simply write code, but analyzes problems, designs scalable systems, and delivers reliable full-stack solutions that stand the test of real-world use.
 
 ## 🧰 Tech Stack
 
-### **Frontend**
+### Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-F8D400?style=for-the-badge&logo=ejs&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React%20Router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-3B82F6?style=for-the-badge&logo=react&logoColor=white)
-![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-353535?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React.js](https://img.shields.io/badge/React-252525?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-353535?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Swiper.js](https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-252525?style=for-the-badge&logo=gsap&logoColor=0AE448)
 
-### **Backend**
+### Backend Development
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### **Tools & Services**
+### Database & Data Layer
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### Platforms & Tools
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Tanstack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Render](https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render&logoColor=white)
 
-### 🌍 Let's Connect
+## 📈 Development Activity
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300A676?style=flat&logo=vercel)](https://mohammad-asad-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-asad-091b6a217/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/IronCodeNagi)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/asad.lifts059/)
+<p>
+  <img
+    width="44%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAsad-Weber&layout=compact&theme=tokyonight&hide_border=true"
+  />
+  <img
+    width="52%"
+    src="https://streak-stats.demolab.com?user=MohammadAsad-Weber&theme=tokyonight&hide_border=true"
+  />  
+</p>
 
-🔥 **Keep Learning, Keep Building, and Keep Growing!** 🔥
+My GitHub activity reflects the technologies I work with most frequently and the consistency I maintain while building and experimenting with projects. The language distribution highlights my primary development stack, while the contribution streak represents my commitment to continuous learning, problem-solving, and improving as an engineer.
+
+## 🎯 Current Focus
+
+At this stage of my journey, I am deliberately focusing on strengthening the engineering disciplines that define reliable and scalable software systems.
+
+- Building **production-grade full-stack applications with strong architectural foundations**
+- Strengthening **backend architecture and designing maintainable, scalable APIs**
+- Advancing expertise in **PostgreSQL, data modeling, and database design**
+- Improving **debugging strategies and performance optimization for complex systems**
+- Leveraging **AI-assisted workflows to increase development efficiency and productivity**
+
+My long-term objective is to become the kind of engineer who can **analyze complex systems, diagnose problems quickly, and design robust solutions with clarity and precision.**
+
+## 🌐 Connect With Me
+
+If you'd like to connect, collaborate, or discuss ideas around web development and modern software systems, feel free to reach out.
+
+[Portfolio](https://mohammad-asad-portfolio.vercel.app/) •
+[LinkedIn](https://www.linkedin.com/in/mohammad-asad-091b6a217/) •
+[X (Twitter)](https://x.com/IronCodeNagi)
+
+I’m always open to meaningful conversations, interesting opportunities, and collaborations that build impactful products.
