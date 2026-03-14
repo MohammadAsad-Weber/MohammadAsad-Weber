@@ -6,13 +6,6 @@ I focus on designing and developing scalable, production-ready web applications 
 
 ## 👨‍💻 About Me
 
-<img
-  width="37%"
-  align="left"
-  src="./assets/coding-mario.gif"
-  alt="Coding Mario"
-/>
-
 I’ve been deeply interested in software engineering since the age of 14, when I first decided to pursue the path of becoming a Software Development Engineer. Despite starting with only an Intermediate education, I worked my way into the IT field through self-learning, consistent practice, and building real projects, gradually developing skills across the full stack — from modern frontend interfaces to backend systems and databases.
 
 Today, my focus has shifted toward the deeper layers of engineering: system architecture, database design, and debugging complex production issues. My long-term goal is to become the kind of developer who doesn’t simply write code, but analyzes problems, designs scalable systems, and delivers reliable full-stack solutions that stand the test of real-world use.
